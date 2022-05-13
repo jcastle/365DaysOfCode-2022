@@ -20,7 +20,16 @@ The following is a collection of books and coursework I am current reviewing in 
 
 | Title | Description | Progress | Repo |
 | ----- | ----- | ----- | ----- |
-| [Placeholder](#) | TBD - description | In progress | [Repo](#) |
+| [DevSecOps Essentials](https://learn.acloud.guru/course/303a1677-0bc8-41d2-bbe0-66ae7e4e01c0/dashboard) | This course covers the DevSecOps process with an emphasis on securing both legacy and hybrid cloud environments. Best practices for security are covered in a conventional Continuous Integration and Continuous Deployment (CI/CD) pipeline. | In progress | [Repo](https://github.com/jcastle/ACG-DevSecOpsEssentials) |
+| [Core Python 3.6: Getting Started](https://app.pluralsight.com/library/courses/getting-started-python-core/table-of-contents) | This course introduces you to the essentials of the Python language, development culture, and important parts of the Python standard library. This course will help you develop the foundation you need to work on any Python project. | In progress | No repo |
+| [Core Python: Big Picture](https://app.pluralsight.com/library/courses/core-python-big-picture/table-of-contents) | This course is a big picture introduction to Python, a widely used programming language growing in popularity, is simple to learn, and ultimately, fun to use. | Completed | No repo |
 
 </details>
 
+<summary>Online and In-Person Events</summary>
+
+| Title | Description | Progress | Repo |
+| ----- | ----- | ----- | ----- |
+| [AppSec Is Dead. Long Live DevSecOps!](https://app.pluralsight.com/library/courses/devseccon24-appsec-devsecops/table-of-contents) | DevSecCon 2020 - Security expert Dr. Matias Madou, Ph.D. demonstrates the changes the industry has faced in the journey from Waterfall to DevSecOps, as well as revealed how the developer can become a powerful piece of the DevSecOps pipeline. | Completed | No repo |
+
+</details>
