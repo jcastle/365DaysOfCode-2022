@@ -26,7 +26,8 @@ The following is a collection of books and coursework I am current reviewing in 
 
 </details>
 
-<summary>Online and In-Person Events</summary>
+<details>
+<summary>Online and In-person Events</summary>
 
 | Title | Description | Progress | Repo |
 | ----- | ----- | ----- | ----- |
